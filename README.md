@@ -1,4 +1,4 @@
-Flag Quiz using external data from PostgreSQL
+Flags Quiz using external data from PostgreSQL
 
 1. npm init
 2. Import Flags.csv into PostgreSQL Database
